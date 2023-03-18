@@ -5,12 +5,12 @@ This repository holds the `backend api` code base for BREAKING BAD.
 ## Install
 - Clone the repository:
 ```
-git clone 
+git clone git@github.com:i-wizard/breaking-bad.git
 ```
 
 - Check into the folder:
 ```
-cd breakingbadapi_task
+cd breaking-bad
 ```
 - Build Application
 ```docker-compose build```
