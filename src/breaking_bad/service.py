@@ -1,4 +1,3 @@
-from turtle import distance
 from typing import Union
 
 from django.db.models.functions import Cast, Sqrt, Radians, Power
